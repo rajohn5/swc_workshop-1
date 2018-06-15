@@ -1,1 +1,3 @@
 Good job!!
+
+Modify step 1 to add type of paper
